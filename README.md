@@ -28,7 +28,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/Karlof99/profile-card-component.git
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -38,28 +38,22 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Semantic HTML5 markup
 - CSS custom properties
 
-
 ### What I learned
 
 I learned that the best way to improve skills is practicing and not only viewing guided tutorials all the time. When I was building this challenge forced me to remember what I've learned.
-
-
 
 ### Continued development
 
 I want to improve my hability in HTML, CSS, JS, Flexbox, Grid, Bootstrap, Webflow, Sketch and Figma in the next projects.
 
-
 ### Useful resources
 
 - https://w3schools.org This is a usefull site that helped me in some CSS details: tables, positioning.
 
-
-
 ## Author
 
 - Website - Carlos Ortiz (Page in construction)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - @Karlof99 (https://www.frontendmentor.io/profile/Karlof99)
 
 
 
