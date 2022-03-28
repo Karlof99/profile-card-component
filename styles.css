@@ -26,14 +26,14 @@ main {
 }
 
 .top-circle {
- bottom: 30%;
- right: 50%;
+ bottom: 50vh;
+ right: 40vw;
  position: absolute;
 }
 
 .bottom-circle {
- top: 55%;
- left: 50%;
+ top: 55vh;
+ left: 40vw;
  position: absolute;
 }
 
@@ -42,8 +42,8 @@ main {
  height: 380px;
  background-color: #fff;
  position: absolute;
- margin-top: 10%;
- left: 40%;
+ top: 20vh;
+ left: 37vw;
  border-radius: 15px;
 }
 
@@ -115,22 +115,21 @@ th, td {
  padding: .25rem 1.4rem 0 1.2rem;
 }
 
-@media screen and (max-width: 980px) {
- .card {
+@media screen and (max-width: 400px) {
+ main {
  transform: scale(2.75);
- margin-top: 750px;
- margin-left: 220px;;
+ top: 20vh;
+ left: 10vw;
 }
  .top-circle {
-  bottom: 50%;
-  right: 60%;
+  bottom: 30vh;
+  right: 30vw;
   transform: scale(2);
  }
  .bottom-circle {
-  top: 215%;
-  left: 260%;
+  top: 240vh;
+  left: 250vw;
   transform: scale(2);
  }
 }
-
 
