@@ -25,11 +25,6 @@ main {
  flex-direction: row;
 }
 
-h6 {
- font-size: 1px;
- visibility: hidden;
-}
-
 .top-circle {
  bottom: 50vh;
  right: 40vw;
